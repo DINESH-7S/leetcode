@@ -1,1 +1,44 @@
-# leetcode
+# LeetCode solutions
+
+My LeetCode solutions in Python. Each folder has the problem statement and my solution.
+
+**36 problems** (10 easy, 17 medium, 9 hard), 33 with solutions uploaded
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 20 | [Valid Parentheses](20-valid-parentheses) | Easy | [Python](20-valid-parentheses/valid-parentheses.py) |
+| 22 | [Generate Parentheses](22-generate-parentheses) | Medium | [Python](22-generate-parentheses/generate-parentheses.py) |
+| 29 | [Divide Two Integers](29-divide-two-integers) | Medium | [Python](29-divide-two-integers/divide-two-integers.py) |
+| 32 | [Longest Valid Parentheses](32-longest-valid-parentheses) | Hard | [Python](32-longest-valid-parentheses/longest-valid-parentheses.py) |
+| 115 | [Distinct Subsequences](115-distinct-subsequences) | Hard | [Python](115-distinct-subsequences/distinct-subsequences.py) |
+| 678 | [Valid Parenthesis String](678-valid-parenthesis-string) | Medium | [Python](678-valid-parenthesis-string/valid-parenthesis-string.py) |
+| 864 | [Image Overlap](864-image-overlap) | Medium | [Python](864-image-overlap/image-overlap.py) |
+| 866 | [Rectangle Overlap](866-rectangle-overlap) | Easy | not uploaded yet |
+| 957 | [Minimum Add to Make Parentheses Valid](957-minimum-add-to-make-parentheses-valid) | Medium | [Python](957-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.py) |
+| 977 | [Distinct Subsequences II](977-distinct-subsequences-ii) | Hard | [Python](977-distinct-subsequences-ii/distinct-subsequences-ii.py) |
+| 1078 | [Remove Outermost Parentheses](1078-remove-outermost-parentheses) | Easy | [Python](1078-remove-outermost-parentheses/remove-outermost-parentheses.py) |
+| 1188 | [Brace Expansion II](1188-brace-expansion-ii) | Hard | [Python](1188-brace-expansion-ii/brace-expansion-ii.py) |
+| 1208 | [Maximum Nesting Depth of Two Valid Parentheses Strings](1208-maximum-nesting-depth-of-two-valid-parentheses-strings) | Medium | [Python](1208-maximum-nesting-depth-of-two-valid-parentheses-strings/maximum-nesting-depth-of-two-valid-parentheses-strings.py) |
+| 1573 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) | Medium | [Python](1573-find-two-non-overlapping-sub-arrays-each-with-target-sum/find-two-non-overlapping-sub-arrays-each-with-target-sum.py) |
+| 1644 | [Maximum Number of Non-Overlapping Substrings](1644-maximum-number-of-non-overlapping-substrings) | Hard | [Python](1644-maximum-number-of-non-overlapping-substrings/maximum-number-of-non-overlapping-substrings.py) |
+| 1725 | [Number of Sets of K Non-Overlapping Line Segments](1725-number-of-sets-of-k-non-overlapping-line-segments) | Medium | [Python](1725-number-of-sets-of-k-non-overlapping-line-segments/number-of-sets-of-k-non-overlapping-line-segments.py) |
+| 1776 | [Minimum Operations to Reduce X to Zero](1776-minimum-operations-to-reduce-x-to-zero) | Medium | [Python](1776-minimum-operations-to-reduce-x-to-zero/minimum-operations-to-reduce-x-to-zero.py) |
+| 1934 | [Evaluate the Bracket Pairs of a String](1934-evaluate-the-bracket-pairs-of-a-string) | Medium | [Python](1934-evaluate-the-bracket-pairs-of-a-string/evaluate-the-bracket-pairs-of-a-string.py) |
+| 2210 | [Find Target Indices After Sorting Array](2210-find-target-indices-after-sorting-array) | Easy | not uploaded yet |
+| 2349 | [ Check if There Is a Valid Parentheses String Path](2349-check-if-there-is-a-valid-parentheses-string-path) | Hard | [Python](2349-check-if-there-is-a-valid-parentheses-string-path/check-if-there-is-a-valid-parentheses-string-path.py) |
+| 2418 | [Minimum Sum of Squared Difference](2418-minimum-sum-of-squared-difference) | Medium | [Python](2418-minimum-sum-of-squared-difference/minimum-sum-of-squared-difference.py) |
+| 2559 | [Maximum Number of Non-overlapping Palindrome Substrings](2559-maximum-number-of-non-overlapping-palindrome-substrings) | Hard | [Python](2559-maximum-number-of-non-overlapping-palindrome-substrings/maximum-number-of-non-overlapping-palindrome-substrings.py) |
+| 3562 | [Maximum Score of Non-overlapping Intervals](3562-maximum-score-of-non-overlapping-intervals) | Hard | [Python](3562-maximum-score-of-non-overlapping-intervals/maximum-score-of-non-overlapping-intervals.py) |
+| 3799 | [Unique 3-Digit Even Numbers](3799-unique-3-digit-even-numbers) | Easy | [Python](3799-unique-3-digit-even-numbers/unique-3-digit-even-numbers.py) |
+| 3811 | [Reverse Degree of a String](3811-reverse-degree-of-a-string) | Easy | [Python](3811-reverse-degree-of-a-string/reverse-degree-of-a-string.py) |
+| 3831 | [Find X Value of Array I](3831-find-x-value-of-array-i) | Medium | [Python](3831-find-x-value-of-array-i/find-x-value-of-array-i.py) |
+| 3840 | [Find X Value of Array II](3840-find-x-value-of-array-ii) | Hard | [Python](3840-find-x-value-of-array-ii/find-x-value-of-array-ii.py) |
+| 3869 | [Smallest Index With Digit Sum Equal to Index](3869-smallest-index-with-digit-sum-equal-to-index) | Easy | [Python](3869-smallest-index-with-digit-sum-equal-to-index/smallest-index-with-digit-sum-equal-to-index.py) |
+| 4078 | [Maximum Alternating Sum of Squares](4078-maximum-alternating-sum-of-squares) | Medium | [Python](4078-maximum-alternating-sum-of-squares/maximum-alternating-sum-of-squares.py) |
+| 4084 | [Maximize Sum of Squares of Digits](4084-maximize-sum-of-squares-of-digits) | Medium | not uploaded yet |
+| 4245 | [Count Commas in Range](4245-count-commas-in-range) | Easy | [Python](4245-count-commas-in-range/count-commas-in-range.py) |
+| 4248 | [Count Commas in Range II](4248-count-commas-in-range-ii) | Medium | [Python](4248-count-commas-in-range-ii/count-commas-in-range-ii.py) |
+| 4256 | [Construct Uniform Parity Array I](4256-construct-uniform-parity-array-i) | Easy | [Python](4256-construct-uniform-parity-array-i/construct-uniform-parity-array-i.py) |
+| 4258 | [Construct Uniform Parity Array II](4258-construct-uniform-parity-array-ii) | Medium | [Python](4258-construct-uniform-parity-array-ii/construct-uniform-parity-array-ii.py) |
+| 4284 | [Smallest Stable Index I](4284-smallest-stable-index-i) | Easy | [Python](4284-smallest-stable-index-i/smallest-stable-index-i.py) |
+| 4285 | [Smallest Stable Index II](4285-smallest-stable-index-ii) | Medium | [Python](4285-smallest-stable-index-ii/smallest-stable-index-ii.py) |
